@@ -9,18 +9,20 @@
 
 ## Contact Info
 * [Resume]()
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/fiona-meng-chien-lee/)
 * Email: mengchien0913@gmail.com
 * Phone: +1 6086222796
 
 ## UX Design
 ### Fitness Tracker
-Mobile app
+Mobile app using React Native framework
 #### Design
+[Prototyping](https://docs.google.com/document/d/1OGEtLX5JlxK3URte7sB--1xgOmjDVI9B/edit?usp=sharing&ouid=115985174294581824998&rtpof=true&sd=true)
+
+[Accessibility features design](https://docs.google.com/document/d/1EDWf43rOlkrcdhL5gQBYI-jpjaK6WwSn/edit?usp=sharing&ouid=115985174294581824998&rtpof=true&sd=true)
 
 #### Implementation
-
-#### Test
+[Code]
 
 
 ### Shopping Assistant
