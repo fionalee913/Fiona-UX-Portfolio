@@ -28,12 +28,13 @@ Mobile app using React Native framework
 ### Shopping Assistant
 Voice assistant built using DialogFlow
 #### Design
+[Experience Prototyping](https://docs.google.com/document/d/1TB15_XTvIDQIHUkt2mGGt6tkO5-S9V__2zDqSeABfGM/edit?usp=sharing)
 
 #### Implementation
 
 
 #### Test
-
+[Usability Testing](https://docs.google.com/document/d/18S6ij9OALAmtMvdjGR90hPgI1zEmAHQnWyvRFd-6DlM/edit?usp=sharing)
 
 ## Research
 ### Cognitive Psychology Task Space
