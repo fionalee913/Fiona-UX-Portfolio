@@ -22,7 +22,7 @@ Mobile app using React Native framework
 [Accessibility features design](https://docs.google.com/document/d/1EDWf43rOlkrcdhL5gQBYI-jpjaK6WwSn/edit?usp=sharing&ouid=115985174294581824998&rtpof=true&sd=true)
 
 #### Implementation
-[Code]()
+[Code](https://github.com/fionalee913/UI-react_native_FitnessTracker)
 
 
 ### Shopping Assistant
