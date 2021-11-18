@@ -8,7 +8,7 @@
 Driven by passion in human cognition and psychology, I have conducted research and launched projects exploring human cognition and interaction with technology. I am motivated to keep building experience in research and projects about user experience and interactions with interface and technologies.
 
 ## Contact Info
-* [Resume](https://github.com/fionalee913/Fiona-UX-Portfolio/blob/main/README.md)
+* [Resume](https://github.com/fionalee913/Fiona-UX-Portfolio/blob/main/Resume_Fiona_UX.pdf)
 * [LinkedIn](https://www.linkedin.com/in/fiona-meng-chien-lee/)
 * Email: mengchien0913@gmail.com
 * Phone: +1 6086222796
